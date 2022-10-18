@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "1": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "2": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "3": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "4": {
+      "item": "minecraft:tuff"
+    },
+    "5": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "6": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "7": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "8": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crying_obsidian",
+    "count": 1
+  }
+}
